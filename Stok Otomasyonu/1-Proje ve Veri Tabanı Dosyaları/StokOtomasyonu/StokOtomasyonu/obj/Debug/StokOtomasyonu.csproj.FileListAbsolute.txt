@@ -1,0 +1,34 @@
+C:\Users\Berke\Desktop\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\bin\Debug\StokOtomasyonu.exe.config
+C:\Users\Berke\Desktop\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\bin\Debug\StokOtomasyonu.exe
+C:\Users\Berke\Desktop\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\bin\Debug\StokOtomasyonu.pdb
+C:\Users\Berke\Desktop\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Berke\Desktop\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.frmMüşteriEkle.resources
+C:\Users\Berke\Desktop\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.frmSatis.resources
+C:\Users\Berke\Desktop\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.Properties.Resources.resources
+C:\Users\Berke\Desktop\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Berke\Desktop\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Berke\Desktop\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.exe
+C:\Users\Berke\Desktop\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.pdb
+C:\Users\Berke\Desktop\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.frmMüşteriListele.resources
+C:\Users\Berke\Desktop\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.frmKategori.resources
+C:\Users\Berke\Desktop\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.frmMarka.resources
+C:\Users\Berke\Desktop\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.frmÜrünEkle.resources
+C:\Users\Berke\Desktop\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.frmÜrünListele.resources
+C:\Users\Berke\Desktop\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.frmSatışListele.resources
+E:\berke dosyaları silme\Berke Staj Dosyaları\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\bin\Debug\StokOtomasyonu.exe.config
+E:\berke dosyaları silme\Berke Staj Dosyaları\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\bin\Debug\StokOtomasyonu.exe
+E:\berke dosyaları silme\Berke Staj Dosyaları\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\bin\Debug\StokOtomasyonu.pdb
+E:\berke dosyaları silme\Berke Staj Dosyaları\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.csproj.AssemblyReference.cache
+E:\berke dosyaları silme\Berke Staj Dosyaları\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.frmKategori.resources
+E:\berke dosyaları silme\Berke Staj Dosyaları\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.frmMarka.resources
+E:\berke dosyaları silme\Berke Staj Dosyaları\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.frmMüşteriEkle.resources
+E:\berke dosyaları silme\Berke Staj Dosyaları\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.frmMüşteriListele.resources
+E:\berke dosyaları silme\Berke Staj Dosyaları\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.frmSatis.resources
+E:\berke dosyaları silme\Berke Staj Dosyaları\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.frmSatışListele.resources
+E:\berke dosyaları silme\Berke Staj Dosyaları\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.frmÜrünEkle.resources
+E:\berke dosyaları silme\Berke Staj Dosyaları\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.frmÜrünListele.resources
+E:\berke dosyaları silme\Berke Staj Dosyaları\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.Properties.Resources.resources
+E:\berke dosyaları silme\Berke Staj Dosyaları\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.csproj.GenerateResource.cache
+E:\berke dosyaları silme\Berke Staj Dosyaları\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.csproj.CoreCompileInputs.cache
+E:\berke dosyaları silme\Berke Staj Dosyaları\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.exe
+E:\berke dosyaları silme\Berke Staj Dosyaları\Stok Otomasyonu\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.pdb

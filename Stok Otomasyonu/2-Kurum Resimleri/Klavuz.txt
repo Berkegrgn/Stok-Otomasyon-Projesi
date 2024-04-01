@@ -1,0 +1,40 @@
+Kurulum Talimatları
+img-1: SQL Server Bağlantısı Ayarları
+
+Bu adımda, sarı ile çizili olan yere SQL Server adınızı yazmalısınız. Bu değişikliği tüm form sayfalarında yapmanız gerekmektedir.
+
+img-2: SQL İçe Aktarma Dosyaları
+
+SQL içe aktarma dosyalarını buraya kopyalayın.
+
+img-3: SQL İçe Aktarma Dosyalarının Konumu
+
+İki dosyayı doğrudan "DATA" klasörüne kopyalayın.
+
+img-4: SQL Server'a Veritabanı Ekleme
+
+SQL Server'a girdikten sonra, "Databases" üzerine sağ tıklayın ve "Attach" seçeneğini seçin.
+
+img-5: Dosyaları Ekleyin
+
+"Add"e tıklayın.
+
+img-6: Veritabanı Seçimi
+
+"Stok_Takip.mdf" dosyasını seçin.
+
+img-7: Dosya ve Log Seçimi
+
+Veritabanı dosya ve log dosyaları resimde gösterildiği gibi görünüyorsa, "OK" tuşuna basın.
+
+img-8: Visual Studio ile Bağlantı
+
+Projeyi Visual Studio ile başlattıktan sonra, "Tools" sekmesi altında "Connect Database" seçeneğini seçin.
+
+img-9: SQL Server Seçimi
+
+"Microsoft SQL Server" seçeneğini seçin.
+
+img-10: Bağlantı Ayarları
+
+Bu resimde, "Server name" alanına SQL sunucu isminizi yazın ve "Database" alanından "Stok_Takip" veritabanını seçin.
