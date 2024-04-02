@@ -1,4 +1,4 @@
-Amaç
+
 Bu proje, bir firmanın ürünlerini kolaylıkla düzenleyip, kontrol edebildiği ve müşteri takibinin yapıldığı bir sistem oluşturmayı amaçlamaktadır.
 
 Özellikler
