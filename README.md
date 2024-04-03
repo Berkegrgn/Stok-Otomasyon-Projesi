@@ -38,8 +38,6 @@ Microsoft SQL Server öğrenimi
 
 Visual Studio C# ile Windows Form Application geliştirme becerisi kazanma
 
-Bu proje, bir firmanın stok yönetimi ve müşteri takibi gibi temel işlevlerini yerine getirmek üzere tasarlanmıştır. 
-
 Visual Studio kullanılarak geliştirilmiş Windows Form uygulaması olarak sunulmaktadır. 
 
 Sistem,ürünleri, müşterileri ve satışları yönetmek için kullanıcı dostu bir arayüz sağlar.
