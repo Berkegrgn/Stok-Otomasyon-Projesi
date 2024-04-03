@@ -38,6 +38,4 @@ Microsoft SQL Server öğrenimi
 
 Visual Studio C# ile Windows Form Application geliştirme becerisi kazanma
 
-Visual Studio kullanılarak geliştirilmiş Windows Form uygulaması olarak sunulmaktadır. 
 
-Sistem,ürünleri, müşterileri ve satışları yönetmek için kullanıcı dostu bir arayüz sağlar.
