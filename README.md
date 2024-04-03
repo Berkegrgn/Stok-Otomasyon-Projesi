@@ -34,8 +34,8 @@ Teknolojiler 🛠
 
 Kazanımlar ✔
 
-Microsoft SQL Server öğrenimi
+- Microsoft SQL Server öğrenimi
 
-Visual Studio C# ile Windows Form Application geliştirme becerisi kazanma
+- Visual Studio C# ile Windows Form Application geliştirme becerisi kazanma
 
 
