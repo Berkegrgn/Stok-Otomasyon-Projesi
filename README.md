@@ -1,10 +1,10 @@
-Amaç
+Amaç 🔍
 
 Bu proje, bir firmanın ürünlerini kolaylıkla düzenleyip, kontrol edebildiği ve müşteri takibinin yapıldığı bir sistem oluşturmayı amaçlamaktadır.
 
 ---------------------------------------------------------------
 
-Özellikler
+Özellikler 📝
 
 Müşteri Ekleme: Yeni müşterilerin sisteme eklenmesini sağlar.
 
@@ -20,7 +20,7 @@ Kategori ve Marka Sayfaları: Ürünlerin kategorilere ve markalara göre düzen
 
 ---------------------------------------------------------------
 
-Teknolojiler
+Teknolojiler 🛠
 
 Geliştirme Ortamı: Visual Studio
 
@@ -32,7 +32,7 @@ Arayüz: Windows Form Application
 
 ---------------------------------------------------------------
 
-Kazanımlar
+Kazanımlar ✔
 
 Microsoft SQL Server öğrenimi
 
